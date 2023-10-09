@@ -49,6 +49,6 @@
    - **Sub-Story**: "Three Words, Infinite Emotions: Mark's Succinct Take on His Musical Voyage."
 
 10. **In Conclusion**:
-   - **Question**: As we await the release of "Bright Horizons", what message or feeling do you hope to convey to your listeners with this labor of love?
-   - **Image Suggestion**: A tranquil image of Mark, guitar in hand, gazing into the distance, capturing a sense of fulfillment and anticipation.
-   - **Sub-Story**: "Strings of the Soul: Mark's Hopeful Message for Every Listener of 'Bright Horizons'."
+    - **Question**: As we await the release of "Bright Horizons", what message or feeling do you hope to convey to your listeners with this labor of love?
+    - **Image Suggestion**: A tranquil image of Mark, guitar in hand, gazing into the distance, capturing a sense of fulfillment and anticipation.
+    - **Sub-Story**: "Strings of the Soul: Mark's Hopeful Message for Every Listener of 'Bright Horizons'."
